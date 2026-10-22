@@ -293,3 +293,6 @@ This learning project is designed around the official [Python documentation](htt
 
 
 [![Architecture diagram of rami-manan/numpy-analyzer](https://gitdiagram.com/rami-manan/numpy-analyzer/diagram.png)](https://gitdiagram.com/rami-manan/numpy-analyzer?utm_source=readme&utm_medium=picture)
+
+
+[![Architecture diagram](https://gitdiagram.com/diagram-badge.svg)](https://gitdiagram.com/rami-manan/numpy-analyzer?utm_source=readme&utm_medium=badge)
