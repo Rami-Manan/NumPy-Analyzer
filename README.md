@@ -290,3 +290,6 @@ Created and maintained by [Rami Manan](https://github.com/Rami-Manan).
 This learning project is designed around the official [Python documentation](https://docs.python.org/3/) and [NumPy documentation](https://numpy.org/doc/). If you find a documentation problem or want to help implement one of the roadmap items, please open an issue or submit a pull request in the repository.
 
 ⭐ If this project helps you practice Python and numerical computing, consider starring the repository and sharing constructive feedback.
+
+
+[![Architecture diagram of rami-manan/numpy-analyzer](https://gitdiagram.com/rami-manan/numpy-analyzer/diagram.png)](https://gitdiagram.com/rami-manan/numpy-analyzer?utm_source=readme&utm_medium=picture)
